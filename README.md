@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendarbanoth&label=Profile%20views&color=0e75b6&style=flat" alt="mahendarbanoth" /> </p>
 
-- 📫 How to reach me [Mail](mailto:mahender.banoth2@gmail.com), [LinkedIn](linkedin.com/in/mahendar-banoth-b00450146/).
+- 📫 How to reach me [Mail](mailto:mahender.banoth2@gmail.com), [LinkedIn](https://www.linkedin.com/in/mahendar-banoth-b00450146/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
